@@ -1,3 +1,4 @@
+# THE BEST ONE WITHOUT BUGS, BUT STILL CAN'T RUN WELL ON MIUI.
 
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
